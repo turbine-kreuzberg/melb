@@ -157,9 +157,9 @@
   integrity sha512-LxcyMGxwmTh2lY9FwHPGWOHmYFCZvbrFCBZL4FzSSsxsRPuhrYUg/49/0KDfW8tnIEaEHtfmn6+NPN+1DqaNmA==
 
 "@fontsource/work-sans@^5.0.0":
-  version "5.0.2"
-  resolved "https://registry.yarnpkg.com/@fontsource/work-sans/-/work-sans-5.0.2.tgz#ed9bc13b3725f0cbfca56e9e856396aff0514eb6"
-  integrity sha512-jcPxnCcnREGaVqmxB9tjaoNbjrcaZk34Pj6DVlb0wy9muXNth1AKIv9CytqJeTaKUv0mFJAXsF1s2Rt6FOZ9/Q==
+  version "5.2.5"
+  resolved "https://registry.yarnpkg.com/@fontsource/work-sans/-/work-sans-5.2.5.tgz#d2621697c17784c7495beefaa96d25c47c961836"
+  integrity sha512-gBw1MCX+EwMIEPPXX5dcgL1I+FJGeZnfJMPSJA0Y8pPtHA0Nve0J19mMI4lzhjmyNKAP+u4JR5zOVY4qZKjYvQ==
 
 "@humanwhocodes/config-array@^0.11.8":
   version "0.11.8"
